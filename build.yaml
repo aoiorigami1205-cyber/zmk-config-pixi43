@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: xiao_ble//zmk
+  - board: seeeduino_xiao_ble
     shield: pixi43_L
-  - board: xiao_ble//zmk
+  - board: seeeduino_xiao_ble
     shield: pixi43_R
