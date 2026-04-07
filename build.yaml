@@ -18,10 +18,7 @@
 #
 ---
 include:
- - board: seeeduino_xiao_ble
-   shield: pixi43_R
-   snippet: studio-rpc-usb-uart
- - board: seeeduino_xiao_ble
-   shield: pixi43_L
- - board: seeeduino_xiao_ble
-   shield: settings_reset
+  - board: seeed_xiao_ble
+    shield: pixi43_L
+  - board: seeed_xiao_ble
+    shield: pixi43_R
