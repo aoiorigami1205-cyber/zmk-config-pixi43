@@ -22,3 +22,5 @@ include:
     shield: pixi43_L
   - board: seeeduino_xiao_ble
     shield: pixi43_R
+     - board: seeeduino_xiao_ble
+    shield: settings_reset
